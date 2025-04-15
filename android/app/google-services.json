@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "122833301442",
+    "project_id": "expensetracker-1347c",
+    "storage_bucket": "expensetracker-1347c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122833301442:android:11e61b5f729533f703b05b",
+        "android_client_info": {
+          "package_name": "com.cipherschools.assignment"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122833301442-cfi6gdbibhe54bnvlnj3jj8d1ap0u3ae.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cipherschools.assignment",
+            "certificate_hash": "b04b31826949b8c8e1bbbdd4fe3d0f47d1278131"
+          }
+        },
+        {
+          "client_id": "122833301442-tard92fsep8cju3hbceiaupa4stbg1vd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEl0aM_qdTTiy-z_iUSeHLVpHktjHqCAk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122833301442-tard92fsep8cju3hbceiaupa4stbg1vd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "122833301442-dmdq33f1ulf8f44k87vtl5rqjthdaaab.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.cipherschools.assignment"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
